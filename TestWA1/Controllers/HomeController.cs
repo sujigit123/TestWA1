@@ -15,7 +15,7 @@ namespace TestWA1.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            _logger = logger;1
+            _logger = logger;
         }
 
         public IActionResult Index()
